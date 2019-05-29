@@ -1,0 +1,50 @@
+{
+    "Bezokolicznik": "oddzwonić",
+    "Postać": "dokonany",
+    "Czas przeszły": {
+        "ja (m)": "oddzwoniłem",
+        "ja (f)": "oddzwoniłam",
+        "ty (m)": "oddzwoniłeś",
+        "ty (f)": "oddzwoniłaś",
+        "on": "oddzwonił",
+        "ona": "oddzwoniła",
+        "ono": "oddzwoniło",
+        "my (m)": "oddzwoniliśmy",
+        "my (f)": "oddzwoniłyśmy",
+        "wy (m)": "oddzwoniliście",
+        "wy (f)": "oddzwoniłyście",
+        "oni": "oddzwonili",
+        "one": "oddzwoniły"
+    },
+    "Czas przyszły prosty": {
+        "ja": "oddzwonię",
+        "ty": "oddzwonisz",
+        "on/ona/ono": "oddzwoni",
+        "my": "oddzwonimy",
+        "wy": "oddzwonicie",
+        "oni/one": "oddzwonią"
+    },
+    "Tryb przypuszczający": {
+        "ja (m)": "oddzwoniłbym",
+        "ja (f)": "oddzwoniłabym",
+        "ty (m)": "oddzwoniłbyś",
+        "ty (f)": "oddzwoniłabyś",
+        "on": "oddzwoniłby",
+        "ona": "oddzwoniłaby",
+        "ono": "oddzwoniłoby",
+        "my (m)": "oddzwonilibyśmy",
+        "my (f)": "oddzwoniłybyśmy",
+        "wy (m)": "oddzwonilibyście",
+        "wy (f)": "oddzwoniłybyście",
+        "oni": "oddzwoniliby",
+        "one": "oddzwoniłyby"
+    },
+    "Tryb rozkazujący": {
+        "ty": "oddzwoń",
+        "on/ona/ono": "niech oddzwoni",
+        "my": "oddzwońmy",
+        "wy": "oddzwońcie",
+        "oni/one": "niech oddzwonią"
+    },
+    " Imiesłów przysłówkowy uprzedni": "oddzwoniwszy"
+}

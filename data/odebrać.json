@@ -1,0 +1,50 @@
+{
+    "Bezokolicznik": "odebrać",
+    "Postać": "dokonany",
+    "Czas przeszły": {
+        "ja (m)": "odebrałem",
+        "ja (f)": "odebrałam",
+        "ty (m)": "odebrałeś",
+        "ty (f)": "odebrałaś",
+        "on": "odebrał",
+        "ona": "odebrała",
+        "ono": "odebrało",
+        "my (m)": "odebraliśmy",
+        "my (f)": "odebrałyśmy",
+        "wy (m)": "odebraliście",
+        "wy (f)": "odebrałyście",
+        "oni": "odebrali",
+        "one": "odebrały"
+    },
+    "Czas przyszły prosty": {
+        "ja": "odbiorę",
+        "ty": "odbierzesz",
+        "on/ona/ono": "odbierze",
+        "my": "odbierzemy",
+        "wy": "odbierzecie",
+        "oni/one": "odbiorą"
+    },
+    "Tryb przypuszczający": {
+        "ja (m)": "odebrałbym",
+        "ja (f)": "odebrałabym",
+        "ty (m)": "odebrałbyś",
+        "ty (f)": "odebrałabyś",
+        "on": "odebrałby",
+        "ona": "odebrałaby",
+        "ono": "odebrałoby",
+        "my (m)": "odebralibyśmy",
+        "my (f)": "odebrałybyśmy",
+        "wy (m)": "odebralibyście",
+        "wy (f)": "odebrałybyście",
+        "oni": "odebraliby",
+        "one": "odebrałyby"
+    },
+    "Tryb rozkazujący": {
+        "ty": "odbierz",
+        "on/ona/ono": "niech odbierze",
+        "my": "odbierzmy",
+        "wy": "odbierzcie",
+        "oni/one": "niech odbiorą"
+    },
+    " Imiesłów przysłówkowy uprzedni": "odebrawszy"
+}
