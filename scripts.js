@@ -3,7 +3,7 @@ var request1 = new XMLHttpRequest();
 // request.open('GET', 'https://ghibliapi.herokuapp.com/films', true)
 console.log("Before word loaded");
 
-request1.open('GET', 'https://koniugacja.github.io/data/odebrać.json', true);
+request1.open('GET', 'https://odmiana.github.io/data/odebrać.json', true);
 request1.onload = function() {
     console.log("Start parsing word");
 
